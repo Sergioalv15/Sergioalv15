@@ -11,7 +11,7 @@
 
 - 📫 Contactame **sergioalv961@gmail.com**
 
-- 📄 Experiencia [Freelancer desde Julio/2025, creador de daeEND, una herramienta para la empresa OCA GLOBAL](Freelancer desde Julio/2025, creador de daeEND, una herramienta para la empresa OCA GLOBAL)
+- 📄 Experiencia [Freelancer desde Julio/2025, creador de daeEND, una herramienta para la empresa OCA GLOBAL]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
