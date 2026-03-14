@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋, Soy Sergio Alvarez</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
-- 🔭 Actualmente estoy trabajando en [DaeEND](https://github.com/Sergioalv15/daeEND)
-
+- 🔭 Actualmente estoy trabajando en Proyectos de React + TS
 - 🌱 Actualmente, estoy aprendiendo **TypeScript**
 
 - 👨‍💻 Todos mi proyectos estan disponibles en [https://github.com/Sergioalv15](https://github.com/Sergioalv15)
