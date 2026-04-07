@@ -1,12 +1,12 @@
 <h1 align="center">Hola 👋, Soy Sergio Alvarez</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
-- 🔭 Actualmente estoy trabajando en Proyectos de React + TS
-- 🌱 Actualmente, estoy aprendiendo **TypeScript**
+- 🔭 Actualmente estoy trabajando en el repositorio generador-albaranes-oca para la empresa OCA GLOBAL
+- 🌱 Actualmente, estoy aprendiendo Zustand
 
 - 👨‍💻 Todos mi proyectos estan disponibles en [https://github.com/Sergioalv15](https://github.com/Sergioalv15)
 
-- 💬 Preguntame sobre **react, JavaScript, Python**
+- 💬 Preguntame sobre **react, JavaScript, TypeScript y Python**
 
 - 📫 Contactame **sergioalv961@gmail.com**
 
